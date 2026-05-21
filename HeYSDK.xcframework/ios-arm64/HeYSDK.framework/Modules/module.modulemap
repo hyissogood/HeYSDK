@@ -1,0 +1,6 @@
+framework module HeYSDK {
+  umbrella header "HeYSDK.h"
+  export *
+
+  module * { export * }
+}
